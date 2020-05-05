@@ -8,7 +8,6 @@ import os
 
 
 class dOTDModel:
-
     def __init__(self, layer_sizes, step_size, max_iters, lyap_off):
         self.layer_sizes = layer_sizes
         self.step_size = step_size
